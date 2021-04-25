@@ -1,0 +1,15 @@
+@font-face {
+    font-family: logo_font;
+    src: url(./logo_font.ttf);
+}
+
+h1 {
+    font-family: 'logo_font';    
+    font-weight: 100;    
+    color: rgb(3, 37, 43);
+    margin: 1px;
+    /* font-size: xx-large; */
+}
+h1.increase {
+    font-size: 60px;
+}
